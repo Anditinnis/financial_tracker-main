@@ -1,0 +1,6 @@
+vk-api
+python-dotenv
+requests
+fastapi
+uvicorn
+pydantic
